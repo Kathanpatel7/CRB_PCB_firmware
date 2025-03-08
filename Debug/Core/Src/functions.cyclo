@@ -1,0 +1,12 @@
+../Core/Src/functions.c:35:6:sendHomingParameters	1
+../Core/Src/functions.c:47:6:sendUARTMessage	1
+../Core/Src/functions.c:51:6:system_initialisation	6
+../Core/Src/functions.c:80:6:Return_xy	3
+../Core/Src/functions.c:110:6:sendHomingCommand	1
+../Core/Src/functions.c:130:6:sendCANCommandWithCRC	2
+../Core/Src/functions.c:153:9:calculateCRC	2
+../Core/Src/functions.c:171:6:sendAbsoluteAxisCommand	1
+../Core/Src/functions.c:196:6:moveToCoordinates	8
+../Core/Src/functions.c:266:6:calibrateMotorEncoder	1
+../Core/Src/functions.c:278:6:controlMotor5	5
+../Core/Src/functions.c:322:6:rotatePhone	3

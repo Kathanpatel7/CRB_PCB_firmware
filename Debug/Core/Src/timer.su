@@ -1,0 +1,6 @@
+../Core/Src/timer.c:25:6:Start_PWM_All_Channels	8	static
+../Core/Src/timer.c:42:6:MX_TIM2_Init	56	static
+../Core/Src/timer.c:70:6:MX_TIM3_Init	56	static
+../Core/Src/timer.c:99:6:MX_TIM16_Init	72	static
+../Core/Src/timer.c:155:6:MX_TIM17_Init	72	static
+../Core/Src/timer.c:212:6:SetLightBrightness	24	static

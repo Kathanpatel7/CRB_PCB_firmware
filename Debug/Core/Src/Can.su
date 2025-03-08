@@ -1,0 +1,5 @@
+../Core/Src/Can.c:24:6:MX_CAN_Init	48	static
+../Core/Src/Can.c:80:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+../Core/Src/Can.c:97:6:sendCANMessage	64	static
+../Core/Src/Can.c:128:6:processCANMessage	8	static
+../Core/Src/Can.c:190:6:CAN_RX0_IRQHandler	8	static

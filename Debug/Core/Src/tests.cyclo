@@ -1,0 +1,6 @@
+../Core/Src/tests.c:26:6:screen_test	3
+../Core/Src/tests.c:64:6:speaker_test	1
+../Core/Src/tests.c:74:6:camera_test	1
+../Core/Src/tests.c:82:6:multitouch_screen_test	1
+../Core/Src/tests.c:102:6:setServoPosition	4
+../Core/Src/tests.c:111:6:delay_ms	1
